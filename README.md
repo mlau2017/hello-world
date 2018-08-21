@@ -2,5 +2,5 @@
 
 Hello all,
 
-mlau here, I'm a SQL developer and currently learning how to use GitHub and Python.
+mlau here, I'm a pharmacist and SQL developer currently learning how to use GitHub and Python.
 Data is fun!
